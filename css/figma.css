@@ -1,0 +1,7 @@
+    .fa-figma {
+        background: url('path_to_your_figma_icon.svg') no-repeat center center;
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-size: contain;
+    }
